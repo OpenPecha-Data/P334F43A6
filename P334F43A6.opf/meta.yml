@@ -1,0 +1,29 @@
+id: P334F43A6
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG03701
+  instance_id: http://purl.bdrc.io/resource/IE00KG03701
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - སྙན་ངག་གི་འགྲེལ་བ་ཨེར་སངས་ལྷ་མོའི་མགུལ་རྒྱན།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P9350
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    cd38f01a07764bc3beda2870b2699c49:
+      title: པོད ༡་སྙན་ངག་གི་འགྲེལ་བ་ཨེར་སངས་ལྷ་མོའི་མགུལ་རྒྱན
+      volume_number: 1
+      base_file: UT00KG03701_I00KG03782_0000.txt
+      reference: http://purl.bdrc.io/resource/VL15D490C256BDF097
+      image_group: I00KG03782
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG03701
+  - http://purl.bdrc.io/resource/W00KG03701
+  ocr_software: Namsel
+created_at: '2021-12-22T10:16:24.407910'
+last_modified_at: '2021-12-22T10:16:24.407917'
